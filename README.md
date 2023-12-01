@@ -1,5 +1,5 @@
 # README
-A basic template for Rust projects based on the NUCLEO-F411RE development board featuring the STM32F411RETx
+(WIP) Rust embedded-hal driver for the Nintendo 64 (N64) controller (NUS-005) 
 
 **MAKE SURE TO UPDATE**
 
@@ -18,3 +18,14 @@ cargo run
 
 ## Devboard Pinout
 ![Devboard Pinout](docs/pinout.png)
+
+## Controller Pinout
+![Controller Pinout](docs/controller_pinout.png)
+
+## References
+
+- https://inst.eecs.berkeley.edu/~cs150/fa04/Lab/Checkpoint1.PDF
+- https://www.eecs.umich.edu/courses/eecs373.f16/Lec/StudentTalks/N64.pdf
+- https://os.mbed.com/users/fomartin/notebook/n64-controller-interface/
+- https://www.qwertymodo.com/hardware-projects/n64/n64-controller
+- https://kthompson.gitlab.io/2016/07/26/n64-controller-protocol.html
